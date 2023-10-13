@@ -1,6 +1,6 @@
 ## Work Experience
 ### Deep Learning Research Intern | Alzheimer’s Dementia Detection using Audio
-- May 2023 - present
+- May 2023 - August 2023
 - Identification of important Cepstrals for Diagnosis of Alzheimer’s Dementia using Deep learning based acoustic analysis
 - Tools & technologies used: Tensorflow, Audacity, Keras, Pandas, IPython, Origin
 - Extracted log Mel, MFCC, GFCC and BFCC cesptral coefficients from audio interviews of elderly individuals from famous Interspeech ADReSS challenge dataset.
