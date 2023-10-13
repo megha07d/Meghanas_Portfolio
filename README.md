@@ -14,7 +14,10 @@
 - big impact project 2
   
 ## Certificates
-- certificate 1
+- Introduction to Machine Learning in Production
+    - Obtained from: DeepLearning.AI
+    - Skills Learned: ML Deployment Challenges, Project Scoping and Design, Model baseline
+    - [Certification link](https://www.coursera.org/account/accomplishments/verify/B9P65RBQK5UQ)
 - certificate 2
   
 
