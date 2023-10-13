@@ -20,6 +20,9 @@
     - [Certification link](https://www.coursera.org/account/accomplishments/verify/B9P65RBQK5UQ)
 - certificate 2
   
-
+## Technical Skills
+- Frameworks: TensorFlow, Scikit-learn, Keras, Librosa
+- Languages: Python, C, C++
+- Deep Learning, Audio Data Processing
   
   
