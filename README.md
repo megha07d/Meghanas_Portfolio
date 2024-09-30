@@ -1,5 +1,14 @@
 ## Work Experience
 
+
+
+### AI Engineer (ADAS)  
+**Sep 2024 – present**  
+**Valeo India, Chennai**
+- add work details frequently
+
+
+
 ### AI Engineer Intern (ADAS)  
 **Nov 2023 – Sep 2024**  
 **Valeo India, Chennai**
@@ -23,19 +32,32 @@
 
 
 ## Projects
-- big impact project 1
-- big impact project 2
+-  project 1
+-  project 2
   
 ## Certificates
+- Deep learning specialization ( ---todo---- )
+- Neural netwroks ( current ) 
 - Introduction to Machine Learning in Production
     - Obtained from: DeepLearning.AI
     - Skills Learned: ML Deployment Challenges, Project Scoping and Design, Model baseline
     - [Certification link](https://www.coursera.org/account/accomplishments/verify/B9P65RBQK5UQ)
-- certificate 2
   
+
 ## Technical Skills
-- Frameworks: TensorFlow, Scikit-learn, Keras, Librosa
-- Languages: Python, C, C++
-- Deep Learning, Audio Data Processing
+
+**Languages**: Python, C/C++, SQL  
+**Frameworks**: PyTorch, ONNX, AIMET, OpenVINO, TensorFlow, CUDA, Streamlit, Keras  
+**Developer Tools**: Git/GitHub, Docker, Unix/Linux Shell, Google Cloud Platform, VS Code, Jupyter  
+**Libraries**: Scikit-Learn, onnxruntime, Pandas, NumPy, Keras, HuggingFace, TensorFlow, Matplotlib, OpenCV  
+
+## Course Work
+
+Deep Learning, Computer Vision, Medical Image Analysis, Digital Image Processing, Pattern Recognition, Introduction to Biometrics, Biosignal Processing and Analysis, Operating Systems, Data Science, Object-Oriented Programming  
+
+## Conference Presentations
+
+- **Evaluation of Acoustic Cepstral Coefficients in differentiation of Alzheimer’s condition using spontaneous speech and Hyperparameter tuned EfficientNet** ([certification](https://drive.google.com/drive/folders/1VxiNkHQkdiFgDZR4Yutm_2-Zr8MLwCGf?usp=share_link))
+
   
   
