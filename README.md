@@ -1,3 +1,14 @@
+## AI Engineer Intern (ADAS)  
+**Nov 2023 – Present**  
+**Valeo India, Chennai**
+
+- Worked on ADAS-based deep learning model deployment and optimization for automated parking technology in the upcoming BMW Neue Klasse series, utilizing Qualcomm’s Snapdragon Ride platform.
+- Applied quantization techniques like Post-Training Quantization (PTQ) and Quantization-Aware Training (QAT) to convert ADAS models from floating-point precision to INT8 for various clients, ensuring minimal accuracy loss and stable on-device performance.
+- Enhanced a 12-decoder level ADAS model by replacing operations with hardware-efficient alternatives, maintaining performance and accuracy.
+- Contributed to pipeline automation, reducing work time from 3 days to half a day, significantly accelerating release cycles.
+- Developed LIDAR data visualizations for real-time assessment of ADAS model performance, ensuring high reliability.
+
+
 ## Work Experience
 ### Deep Learning Research Intern | Alzheimer’s Dementia Detection using Audio
 - May 2023 - August 2023
